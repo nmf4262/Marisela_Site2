@@ -1,0 +1,47 @@
+body {
+   background-color: #FFF7F3;
+   font-family: Georgia;
+   text-align: center !important;
+}
+h1 {
+    text-aling: center;
+    color: #7B0ECB;
+    font-family: lora;
+}
+p {
+  color: white;
+}
+.card {
+  margin-right: 25px;
+  margin-left: 25px;
+  margin-top: 15px
+  margin-bottom: 10px;
+  padding: 5px !important;
+  background-color: #38C1C0;
+}
+#top_left_card{
+  margin-left:65px;
+}
+#top_right_card{
+  margin-right:65px;
+}
+#mid_left_card1{
+  margin-left:65px;
+}
+#mid_right_card1{
+  margin-right:65px;
+}
+#mid_left_card2{
+  margin-left:65px;
+  margin-top:14px;
+}
+#mid_right_card2{
+  margin-right:65px;
+  margin-top:14px;
+}
+#bot_left_card{
+  margin-left:65px;
+}
+#bot_right_card{
+  margin-right:65px;
+}
